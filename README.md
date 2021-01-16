@@ -5,6 +5,7 @@
       - train 파일 분석
       - Prediction
       - 목표: 상위 5% 이내 점수 
-     - review : 
+     - review : https://lheon.tistory.com/70?category=904559
+    
 
 ![img.png](./img/img.png)
