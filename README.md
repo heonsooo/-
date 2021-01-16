@@ -4,5 +4,7 @@
      - 캐글 실습으로 배우는 데이터사이언스 구현입니다.
       - train 파일 분석
       - Prediction
-      - 상위 5% 이내 점수 
-      
+      - 목표: 상위 5% 이내 점수 
+     - review : 
+
+![img.png](./img/img.png)
